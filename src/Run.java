@@ -15,6 +15,8 @@ public class Run {
 		System.out.println(" Can you do that ?");
 		String canYou=sc.next();
 		
-		
-		
+		if userYes()
+		{
+			System.out.println("
+		}
 	}
