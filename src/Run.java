@@ -17,6 +17,13 @@ public class Run {
 		
 		if userYes()
 		{
-			System.out.println("
+			System.out.println(" Well let's begin");
 		}
+	}
+	
+	private void Bedroom()
+	{
+		System.out.println(" Youy are now in your bedroom \nIf you wish to leave his house wiithout waking up your parents \nYou wil need to be clever and not wake them up" );
+		
+		
 	}
